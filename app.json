@@ -1,6 +1,6 @@
 {
   "name": "delicious_recipes",
-  "description": "CodeZine",
+  "description": "‚Í‚è‚Í‚ç",
   "scripts": {
     "postdeploy": "rake db:migrate"
   },
